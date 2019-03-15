@@ -1,3 +1,2 @@
-# Sample Git repo
-
-for example tests
+# Test Git Repo
+A place for isolated git tests
