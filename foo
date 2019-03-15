@@ -1,1 +1,1 @@
-feature foo master change
+feature-rebase to master foo
